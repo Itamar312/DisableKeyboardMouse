@@ -15,3 +15,4 @@ function Disable-UserInput($seconds) {
 }
 
 Disable-UserInput -seconds 240 | Out-Null
+exit
